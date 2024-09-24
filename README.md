@@ -1,22 +1,22 @@
 ![image](https://github.com/GiseliSiqueira/GiseliSiqueira/assets/25889586/c88fbb6a-0ef6-4fd1-8e9e-294c0cd69675)
-### Hello, welcome! 👋
+### Olá, bem-vindo! 👋
 
-#### I'm Giseli. 
+#### Eu sou Giseli. 
 
-- 👨‍🎓 I have a Bachelor's degree in Information Systems from the Federal Institute of Espírito Santo and a Bachelor's degree in Computing Education from the State University of Paraíba.
+- 👨‍🎓 Tenho uma graduação em Sistemas de Informação pelo Instituto Federal do Espírito Santo e uma graduação em Licenciatura em Computação pela Universidade Estadual da Paraíba.
 
-- 📊 I work in the data field, transforming data into meaningful information with business value for companies.
+- 📊 Trabalho na área de dados, transformando informações em dados significativos com valor para os negócios das empresas.
 
-- ⭐ In this space, I will be adding the projects that are part of my professional development in data engineering and data analysis.
+- ⭐ Neste espaço, vou adicionar os projetos que fazem parte do meu desenvolvimento profissional em engenharia de dados e análise de dados.
 
-    My learning is in this repository: [Courses](https://github.com/GiseliSiqueira/courses)
+    Meu aprendizado está neste repositório: [Cursos](https://github.com/GiseliSiqueira/courses)
 
-    My projects are in this repository: [Projects](https://github.com/GiseliSiqueira/projects)
+    Meus projetos estão neste repositório: [Projetos](https://github.com/GiseliSiqueira/projects)
 
-- 📚 I seek to develop myself in the data field with a focus on data engineering, getting to know new tools, techniques, and applications to constantly improve my qualifications.
+- 📚 Busco me desenvolver na área de dados com foco em engenharia de dados, conhecendo novas ferramentas, técnicas e aplicações para melhorar constantemente minhas qualificações.
 
-- 📫 You can reach me at giseli.nunes1@gmail.com
-- 💬 You can also connect with me at [linkedIn](https://www.linkedin.com/in/giseli-siqueira/)
+- 📫 Você pode me contatar pelo email giseli.nunes1@gmail.com
+- 💬 Você também pode se conectar comigo no [linkedIn](https://www.linkedin.com/in/giseli-siqueira/)
 
 
 <!--
